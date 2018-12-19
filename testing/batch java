@@ -1,0 +1,8 @@
+cd C:\Program Files\Java\jdk1.8.0_101\bin
+javac itest.java
+java itest > op4.txt
+
+
+	
+
+	
